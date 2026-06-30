@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dein Lachen im Ohr, Baby, late night drive
+> Ich seh' dein Gesicht in den Neon-Lights
+> Gib mir den Vibe, you're my perfect drug
+> Kein anderer Ort, an dem ich lieber wär' heut Nacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
